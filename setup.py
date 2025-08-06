@@ -33,6 +33,7 @@ elif sys.platform.startswith('linux'):
         'freetype',
         'GL',
         'GLU',
+        'stdc++',
     ])
 
 
